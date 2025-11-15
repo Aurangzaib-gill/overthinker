@@ -1,5 +1,5 @@
 # overthinker
 Siuu
 <br>
-first step is the hardest
+first step is always the hardest
 
